@@ -16,6 +16,8 @@ Douyin/Tiktok x-gorgon algorithm
 3. Xg算法 市面上的xg04算法，有一个漏洞会造成成功率缺陷。
 4. 软件设计 爬取逻辑的调整比较好处理。 事实上抖音各个接口具有不同的风控，需单独调整。
 
+欢迎大家与我交流。
+
 联系方式/Contact me  
 
 Telegram: https://t.me/marketabc
