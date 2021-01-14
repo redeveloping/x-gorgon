@@ -1,8 +1,7 @@
-# x-gorgon
+# x-gorgon/xlog
 抖音xg04算法和设备号风控研究  
 
-Douyin/Tiktok x-gorgon algorithm 
-
+Douyin/Tiktok algorithms including x-gorgon, xlog, register and activate devices
 
 本项目主要是针对抖音和Tiktok爬虫业务的研究。要实现一个大并发且稳定的爬虫， 至少具备以下条件:
 * IP
